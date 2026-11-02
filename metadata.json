@@ -1,0 +1,6 @@
+{
+  "name": "G-Digitalz Fashions | Luxury Ugandan Fashion & Couture",
+  "description": "Premium Ugandan luxury e-commerce fashion house showcasing bespoke tailoring, contemporary Afro-luxe couture, and handcrafted artisan accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
